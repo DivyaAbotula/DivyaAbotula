@@ -1,80 +1,104 @@
 <h1 align="center">Hi there, I'm Abotula Divya 👋</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | AI Image Processing Enthusiast</h3>
+<h3 align="center">Full Stack Developer | MERN Stack | AI & Image Processing Enthusiast</h3>
 
 <p align="center">
   📫 <a href="mailto:divyaabotula1@gmail.com">divyaabotula1@gmail.com</a> • 
-  📍 Kambara, Parvathipuram Manyam • 
+  📍 Kambara, Veeraghattam, Parvathipuram Manyam – 532460 • 
   📞 +91 6303259957
 </p>
 
 ---
 
-### 🚀 About Me
+## 👩‍🎓 Education
 
-I'm a passionate Computer Science Engineering student at **GVP College of Engineering for Women**, currently exploring Full Stack Development and AI-based web applications. I enjoy solving real-world problems through efficient, scalable solutions.
+- 🎓 **B.Tech – Computer Science Engineering**  
+  Gayatri Vidhya Parishad College of Engineering for Women, Visakhapatnam  
+  CGPA: **8.90** (till 5th Semester)  
+  _Nov 2022 – Apr 2026_
 
-- 🔭 I’m currently working on improving UI/UX in React projects
-- 🌱 I’m learning AI tools like NLP and Image Processing
-- 👯 I love participating in coding events and technical workshops
-- 💬 Ask me about **MERN, Git, MongoDB, JS**
-- 📄 [View My Portfolio](https://divyaabotula.github.io/portfolio/)
+- 🏫 **Intermediate – MPC (Maths, Physics, Chemistry)**  
+  Sri Chaitanya Junior College, Visakhapatnam  
+  Percentage: **96.1%**  
+  _Apr 2020 – Apr 2022_
 
----
 
-### 🛠️ Tech Stack
-
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
 
 ---
 
-### 💼 Projects
+## 🧑‍💻 Skills
 
-#### 🧳 Roadie – Travel Website
-> A fully responsive site for exploring destinations and planning trips.  
-> Developed using HTML, CSS, JavaScript. Mobile-first design with scroll animations.
-
-#### 📚 Smart Study – Academic Resource Platform
-> Student-focused study platform with academic materials, career resources, and responsive design.  
-> Built with HTML, CSS, and JavaScript.
+- **Languages:** C, Java, Python  
+- **Web Technologies:** HTML, CSS, JavaScript, Bootstrap  
+- **Database:** MongoDB, MySQL  
+- **Tools:** Git, GitHub, VS Code  
+- **Soft Skills:** Problem Solving, Agile Collaboration, Public Speaking
 
 ---
 
-### 🎖️ Achievements
+## 💼 Projects
 
-- 🏆 Winner of Inter-College Chess Tournament (2022–23 & 2023–24)
-- 🗣️ Conducted tech workshops and served as class representative
+### 🧳 Roadie – Travel Website  
+A fully responsive travel website using HTML, CSS & JS. Designed with mobile-first approach, scroll animations, and smooth transitions.
 
----
-
-### 📜 Certifications
-
-- 🎓 **Data Science with Python** (Elite + Silver) – NPTEL  
-- 💡 **Front-End Web Development** – Codesoft  
-- 🤖 **Data Science & Machine Learning** – Excelr  
-- 🧰 **Full Stack Web Development** – EduSkills
+### 📚 Smart Study  
+Educational platform to help students with 4-year academic content, interview preparation, and career skills. Built with HTML, CSS, JavaScript.
 
 ---
 
-### 📊 GitHub Stats
+## 🏆 Achievements
+
+- 🥇 Winner of Inter-College Chess Tournament (2022–23, 2023–24)
+- 🗣️ Led classroom as **Class Representative** for one semester
+- 🎯 Volunteered as **Sports Coordinator**, organized chess tournaments for 50+ students
+
+---
+
+## 📜 Certifications
+
+- 🧠 **Data Science with Python** – NPTEL (Elite + Silver)
+- 💻 **Front-End Web Development (HTML, CSS, JS)** – Codesoft
+- 📊 **Data Science & Machine Learning** – Excelr
+- 🌐 **Full Stack Web Development** – EduSkills
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### AI/ML & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DivyaAbotula&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaAbotula&layout=compact&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DivyaAbotula&show_icons=true&theme=gruvbox" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaAbotula&layout=compact&theme=gruvbox" width="48%" />
 </p>
 
 ---
 
-### 📈 GitHub Activity
+## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyaAbotula&theme=github-compact" />
@@ -82,10 +106,10 @@ I'm a passionate Computer Science Engineering student at **GVP College of Engine
 
 ---
 
-### 🌐 Connect with Me
+## 🔗 Connect with Me
 
 <p align="center">
   <a href="https://github.com/DivyaAbotula"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/divya-abotula-223572259/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://divyaabotula.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=web&logoColor=white" /></a>
+  <a href="https://github.com/DivyaAbotula/portfolio.git"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=web&logoColor=white" /></a>
 </p>
