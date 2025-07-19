@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi there! 👋 I'm Abotula Divya
 
-<!--
-**DivyaAbotula/DivyaAbotula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE @ GVP College of Engineering for Women  
+💻 Full Stack Developer | MERN | AI Enthusiast  
+📫 Reach me: divyaabotula1@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a passionate developer building user-focused full-stack applications.  
+Experienced in frontend design, database management, and AI integration.
+
+- 🌱 Currently learning **AI-powered web apps**
+- 💬 Ask me about **HTML, CSS, JS, React, Node.js, MongoDB**
+- 💡 Exploring **Data Science, NLP, and AI image processing**
+- 🤝 Open to collaborating on impactful software projects
+
+---
+
+## 🛠️ Skills
+
+- 💻 Languages: C, Java, Python
+- 🌐 Frontend: HTML, CSS, JavaScript, Bootstrap
+- 🧠 Backend: Node.js, Express
+- 🛢️ Databases: MongoDB, MySQL
+- 🛠️ Tools: Git, GitHub, VS Code
+- 🎯 Soft Skills: Public Speaking, Collaboration, Debugging
+
+---
+
+## 📌 Projects
+
+### 🔹 Roadie – Travel Planner Website
+> Fully responsive site with custom CSS, animations, and destination sections.
+
+### 🔹 Smart Study – Academic Assistant
+> Educational platform with 4-year materials, interview prep, career tips.
+
+---
+
+## 📎 Links
+
+- 🌐 [My Portfolio](https://divyaabotula.github.io/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/divya-abotula-223572259/)
+- 🐙 [GitHub](https://github.com/DivyaAbotula)
+
+---
