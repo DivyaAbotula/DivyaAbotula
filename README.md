@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Abotula Divya
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Learner;AI+%26+Image+Processing+Explorer;Coding+Contest+Winner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Learner;AI+%26+Image+Processing+Explorer" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -91,7 +91,7 @@ Currently pursuing B.Tech in **Computer Science Engineering** at GVP College of 
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://divyaabotula.github.io/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/DivyaAbotula/portfolio.git)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divya-abotula-223572259/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DivyaAbotula)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyaabotula1@gmail.com)
